@@ -1,2 +1,2 @@
 # jcc
-Jin's C Compiler
+Jin's experimental standard C11 Compiler
